@@ -1,0 +1,14 @@
+{
+	"name": "module-details",
+	"description": "",
+	"homepage": "https://github.com/gburghardt/module-details",
+	"repository": { "type": "git", "url": "https://github.com/gburghardt/module-details.git" },
+	"authors": [
+		"Greg Burghardt <greg_burghardt@yahoo.com>"
+	],
+	"license": "MIT",
+	"main": "src/module/details_module.js",
+	"dependencies": {
+		"module-utils": "~1.0.2"
+	}
+}
