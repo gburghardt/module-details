@@ -10,5 +10,9 @@
 	"main": "src/module/details_module.js",
 	"dependencies": {
 		"module-utils": "~1.0.2"
+	},
+	"devDependencies": {
+		"mocking_bird": "~0.0.1",
+		"oxydizr": "~1.0.1"
 	}
 }
