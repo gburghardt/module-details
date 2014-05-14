@@ -1,7 +1,7 @@
 {
 	"name": "module-details",
 	"description": "Quick and dirty details view",
-    "version": "1.0.0",
+    "version": "1.0.1",
 	"homepage": "https://github.com/gburghardt/module-details",
 	"repository": { "type": "git", "url": "https://github.com/gburghardt/module-details.git" },
 	"authors": [
@@ -10,7 +10,7 @@
 	"license": "MIT",
 	"main": "src/module/details_module.js",
 	"dependencies": {
-		"module-utils": "~1.0.3"
+		"module-utils": "~1.0.4"
 	},
 	"devDependencies": {
 		"mocking_bird": "~0.0.1",
